@@ -6,3 +6,10 @@ h1 {
   color: #e8dc84;
   margin-left: 20px;
 }
+
+    
+    ul {
+      list-style-type: none;
+      padding: 0;
+      margin: 0;
+    }
