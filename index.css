@@ -7,3 +7,10 @@ h1 {
   margin-left: 20px;
 }
 
+    /*removes bullets from navigation */
+    ul {
+      list-style-type: none;
+      padding: 0;
+      margin: 0;
+    }
+
