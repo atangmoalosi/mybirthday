@@ -25,20 +25,20 @@ li {
         }
 
 nav {
-  background-color: #bbf74a;
+  background-color:#f54281;
   position: relative;
 }
 
-#nav-links {
+nav-links {
   list-style: none;
   padding: 10px 0;
 }
 
-#nav-links li {
+nav-links li {
   margin: 0 15px;
 }
 
-#nav-links li a {
+nav-links li a {
   color: #064218;
   text-decoration: none;
   padding: 10px 15px;
@@ -46,6 +46,6 @@ nav {
   transition: background-color 0.3s ease;
 }
 
-#nav-links li a:hover {
+nav-links li a:hover {
   background-color: #666;
   border-radius: 4px;
